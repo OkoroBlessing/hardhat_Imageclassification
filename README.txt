@@ -1,0 +1,1 @@
+A machine learning project using MobileNetV2 and InceptionV3 models to automatically classify hard hat on a worker  image analysis. This tool helps identify correctly worn hard hats and people who don't have hard hats on.
